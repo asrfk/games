@@ -1,0 +1,8 @@
+﻿  Program4.cpp
+C:\Users\13142\source\repos\Program4\Program4\craps.h(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\13142\source\repos\Program4\Program4\tictactoe.h(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\13142\source\repos\Program4\Program4\hangman.h(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\13142\source\repos\Program4\Program4\hangman.h(23,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\13142\source\repos\Program4\Program4\blackjack.h(107,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\13142\source\repos\Program4\Program4\war.h(73,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Program4.vcxproj -> C:\Users\13142\source\repos\Program4\x64\Debug\Program4.exe
